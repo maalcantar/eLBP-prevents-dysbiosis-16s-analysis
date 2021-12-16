@@ -1,4 +1,4 @@
-# Engineered probiotic prevents antibiotic-induced dysbiosis: 16S rDNA sequencing analysis
+# Engineered live biotherapeutic product (eLBP) prevents antibiotic-induced dysbiosis: 16S rDNA sequencing analysis
 
 This repository contains code needed to reproduce 16S rDNA sequence analyses described in “Preventing antibiotic-induced dysbiosis with an engineered live biotherapeutic” (Cubillos-Ruiz et al. 2021). 
 
