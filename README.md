@@ -1,6 +1,6 @@
 # Engineered live biotherapeutic product (eLBP) prevents antibiotic-induced dysbiosis: 16S rDNA sequencing analysis
 
-This repository contains code needed to reproduce 16S rDNA sequence analyses described in “Preventing antibiotic-induced dysbiosis with an engineered live biotherapeutic” (Cubillos-Ruiz et al. 2021). 
+This repository contains code needed to reproduce 16S rDNA sequence analyses described in “An engineered live biotherapeutic for the prevention of antibiotic-induced dysbiosis” (Cubillos-Ruiz et al. 2022). 
 
 # Installation & requirements  
 
@@ -33,7 +33,7 @@ All data files are found in and/or will be written to <code>data/</code>
   * Directory where all files created with QIIME 2 (i.e., qza and qzv files) will be written
 
   
-16S rDNA sequencing data is not included in this repository due to their large file sizes; however, all data is deposited at:
+16S rDNA sequencing data is not included in this repository due to their large file sizes; however, all data are publicly available under NCBI Bioproject PRJNA803721. 
 Some other large files (e.g., Blactam-paired-end-demux_ds1.qza; >7GB) could not be included and can be produced by running the code found in this repository. 
 
 ### figures
