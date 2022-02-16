@@ -38,7 +38,7 @@ Some other large files (e.g., Blactam-paired-end-demux_ds1.qza; >7GB) could not 
 
 ### figures
 
-Various figures created by Jupyter Notebooks can be found in <code>figs/</code>. The majority of figures shown in the publication were recreated using PRISM.
+Figures created by Jupyter Notebooks can be found in <code>figs/</code>. The majority of figures shown in the publication were recreated using PRISM.
 
 
 Please feel free to reach out if you have any questions about implementation or reproducing analyses! (alcantar [at] mit [dot] edu).
