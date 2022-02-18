@@ -33,7 +33,7 @@ All data files are found in and/or will be written to <code>data/</code>
   * Directory where all files created with QIIME 2 (i.e., qza and qzv files) will be written
 
   
-16S rDNA sequencing data is not included in this repository due to their large file sizes; however, all data are publicly available under NCBI Bioproject PRJNA803721. 
+16S rDNA sequencing data is not included in this repository due to their large file sizes; however, all data are publicly available under NCBI Bioproject PRJNA803721 (to be released soon). 
 Some other large files (e.g., Blactam-paired-end-demux_ds1.qza; >7GB) could not be included and can be produced by running the code found in this repository. 
 
 ### figures
